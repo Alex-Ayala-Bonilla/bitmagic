@@ -1,0 +1,23 @@
+{
+  "name": "bitmagic",
+  "version": "0.0.1",
+  "description": "An clean and easy node module to handle bits.",
+  "main": "bitmagic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alex-Ayala-Bonilla/bitmagic.git"
+  },
+  "keywords": [
+    "bitmap",
+    "bitparse"
+  ],
+  "author": "Jesus Alejandro Ayala <ing.jaab@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Ayala-Bonilla/bitmagic/issues"
+  },
+  "homepage": "https://github.com/Alex-Ayala-Bonilla/bitmagic"
+}
